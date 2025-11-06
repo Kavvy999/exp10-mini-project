@@ -62,7 +62,7 @@ Modular and scalable architecture
 
 Author
 
-Ayush Kumar
+Kavy Zinta
 Full Stack Developer | Java | React.js | Spring Boot
 (https://www.linkedin.com/in/ayush-kumar-2b5064228/)
 https://github.com/AyushKumar2555
